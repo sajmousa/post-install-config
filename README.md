@@ -22,11 +22,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- After installation configuration of osTicket
-- Explore osTicket 
-- Create, interact, and close tickets
-- Clean up virtual environment in Azure
-
+- item 1
+- item 2
+- item 3
+- item 4
 
 <h2>Configuration Steps</h2>
 
