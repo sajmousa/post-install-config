@@ -25,8 +25,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 - After installation configuration of osTicket
 - Explore osTicket 
 - Create, interact, and close tickets
-- Clean up Virtual Environment in Azure
-- Item 5
+- Clean up virtual environment in Azure
+
 
 <h2>Configuration Steps</h2>
 
