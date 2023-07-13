@@ -158,7 +158,7 @@ Configure Help Topics
 <br />
 <br />
 <p>
-The osTicket is now fully configured. This is a very important help desk specialist skill to have, as they are the first line of communication between a company and it's customers when handling issues regarding a product or service they provide.
+The osTicket is now fully configured. This is a very important help desk skill to have, as they are the first line of communication between a company and it's customers when handling issues regarding a product or service they provide.
 </p>
 <p>
 </p>
